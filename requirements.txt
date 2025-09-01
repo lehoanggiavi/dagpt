@@ -1,0 +1,14 @@
+langchain                 # Framework xây dựng ứng dụng AI Agent
+langchain-community       # Integration/tool từ cộng đồng cho LangChain
+langchain-openai          # Kết nối LangChain với OpenAI API
+langchain-experimental    # Các tính năng thử nghiệm của LangChain
+streamlit                 # Tạo web app nhanh để demo
+pandas                    # Xử lý dữ liệu dạng bảng
+matplotlib                # Vẽ biểu đồ cơ bản
+seaborn                   # Vẽ biểu đồ nâng cao (dựa trên matplotlib)
+pygwalker                 # Trực quan hóa dữ liệu trong notebook
+jupyterlab                # Môi trường notebook cho data science
+tiktoken                  # Tokenizer tối ưu cho OpenAI
+tabulate                  # Hiển thị bảng dữ liệu trong console
+python-dotenv             # Đọc biến môi trường từ file .env
+langchain-google-genai    # Kết nối LangChain với Google Generative AI
