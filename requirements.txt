@@ -12,3 +12,4 @@ tiktoken                  # Tokenizer tối ưu cho OpenAI
 tabulate                  # Hiển thị bảng dữ liệu trong console
 python-dotenv             # Đọc biến môi trường từ file .env
 langchain-google-genai    # Kết nối LangChain với Google Generative AI
+pygwalker
