@@ -95,7 +95,7 @@ Mình sẽ xây dựng một công cụ phân tích dữ liệu hữu ích và t
 - Pygwalker là một công cụ miễn phí và hữu ích thay thế cho Tableau và có thể được nhúng vào ứng dụng của chúng ta.
 - Bằng cách làm theo hướng dẫn này, mọi người có thể tự xây dựng công cụ phân tích dữ liệu của riêng mình, tận dụng sức mạnh của LLMs và Streamlit.
 # Liên Hệ
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy để lại bình luận dưới video hoặc liên hệ với mình qua email: [lehoanggiavi21082004@gmail.com].
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào liên hệ với mình qua email: [lehoanggiavi21082004@gmail.com].
 # Liên Kết Hữu Ích
 - Streamlit Documentation[https://docs.streamlit.io/]
 - Pandas Documentation[https://pandas.pydata.org/docs/]
