@@ -63,7 +63,6 @@ A short description of the project.
 ## Giới Thiệu
 Mình sẽ xây dựng một công cụ phân tích dữ liệu hữu ích và tiện lợi tên là DAGPT (Data Analysis GPT). Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, OpenAI API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
 
-# Nội Dung Video
 ## 1. Giới Thiệu về DAGPT
 * Tổng quan: DAGPT là một công cụ phân tích dữ liệu sử dụng các mô hình ngôn ngữ lớn để hỗ trợ các tác vụ phân tích và thao tác dữ liệu qua giao diện đàm thoại.
 * Tính năng:
